@@ -61,3 +61,36 @@ This repo contains a collection of project deliverables from my DAND course work
 >
 > ### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/blob/master/Project%203-Analyze%20AB%20Test%20Results/Project3%20Review.pdf)
  ---
+ ### 4. [Project 4-Wrangle and Analyze Data](https://github.com/atan4583/dand-project-portfolio/tree/master/Project%204-Wrangle%20and%20Analyze%20Data)
+ > * Apply the concepts learned from the lessons in Data Wrangling, to gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. Showcase data wrangling efforts through analyses and visualizations.
+ >
+ >
+ > * Gather data from 3 sources:
+ >   - WeRateDogs Twitter archive. This contains 5000+ basic tweet data about dog rating, name, and "stage"
+ >   - tweet image predictions from [Udacity site](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv). This file contains dog breed prediction results (from a Neural Network classifier) for every dog images from the WeRateDogs Twitter archive.
+ >   - Twitter API tweepy. Use this API to query additional data (in JSON format) for each tweet ID in the WeRateDogs Twitter archive.
+ >
+ >
+ > * After gathering the data, assess them visually and programmatically for quality and tidiness issues. Detect and document at least eight (8) quality issues and two (2) tidiness issues
+ >
+ >
+ > * Clean each of the issues identified, document the cleaning steps taken and output the results to a high quality and tidy master pandas DataFrame.
+ >
+ >
+ > * Analyze and visualize the wrangled data to produce at least three (3) insights and one (1) visualization
+ >
+ >
+ > * Produce a 300-600 word written report with brief description of the wrangling efforts, frame it as an internal document. Create another 250-word-minimum written report to communicate the insights and displays the visualization(s) produced from the wrangled data. Frame it as an external document, like a blog post or magazine article
+ >
+ >
+ > * Tool used: Jupter Notebook (Python)
+ >
+ >
+ > * Programming libraries used: panda, numpy, matplotlib, seaborn, tweepy, json, requests
+ >
+ >
+ > * Artifact: wrangle_act.ipynb, wrangle_report.pdf, act_report.pdf
+ >
+ >
+ >
+ > ### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/tree/master/Project%204-Wrangle%20and%20Analyze%20Data)
