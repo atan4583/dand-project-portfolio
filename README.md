@@ -61,7 +61,7 @@ This repo contains a collection of project deliverables from my DAND course work
 >
 > ### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/blob/master/Project%203-Analyze%20AB%20Test%20Results/Project3%20Review.pdf)
  ---
- ### 4. [Project 4-Wrangle and Analyze Data](https://github.com/atan4583/dand-project-portfolio/tree/master/Project%204-Wrangle%20and%20Analyze%20Data)
+ ### 4. [Project 4-Wrangle and Analyze Data](https://github.com/atan4583/dand-project-portfolio/tree/master/Project%204-Wrangle%20and%20Analyze%20Data) - project currently in progress
  > * Apply the concepts learned from the lessons in Data Wrangling, to gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. Showcase data wrangling efforts through analyses and visualizations.
  >
  >
@@ -93,4 +93,4 @@ This repo contains a collection of project deliverables from my DAND course work
  >
  >
  >
- > ### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/tree/master/Project%204-Wrangle%20and%20Analyze%20Data)
+ > ### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/tree/master/Project%204-Wrangle%20and%20Analyze%20Data) - not available until this project is done
