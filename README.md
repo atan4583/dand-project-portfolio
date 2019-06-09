@@ -88,10 +88,10 @@ This repo contains a collection of project deliverables from my DAND course work
 >
 >
 > * Artifact:
->  - wrangle_act.ipynb
->  - wrangle_report.pdf, wrangle_report.html
->  - act_report.pdf, act_report.html
->  - twitter_archive_enhanced.csv, image_predictions.tsv, tweet_json.txt, twitter_archive_master.csv, twitter_archive.db
+>   - wrangle_act.ipynb
+>   - wrangle_report.pdf, wrangle_report.html
+>   - act_report.pdf, act_report.html
+>   - twitter_archive_enhanced.csv, image_predictions.tsv, tweet_json.txt, twitter_archive_master.csv, twitter_archive.db
 >
 >
 > ### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/blob/master/Project%204-Wrangle%20and%20Analyze%20Data/Project4%20Review.pdf)
@@ -110,11 +110,11 @@ This repo contains a collection of project deliverables from my DAND course work
 >
 >
 > * Artifact:
->  - Communicate_Data_Findings-Prosper_Loan_Part1.ipynb, Communicate_Data_Findings-Prosper_Loan_Part1.html
->  - Communicate_Data_Findings-Prosper_Loan_Part2.ipynb, Communicate_Data_Findings-Prosper_Loan_Part2.html
->  - Communicate_Data_Findings-Prosper_Loan_Part2.slides.html
->  - readme.md
->  - prosperLoanData_src.csv (for data wrangling use), prosperLoanData.csv (for exploration and explanatory use)
+>   - Communicate_Data_Findings-Prosper_Loan_Part1.ipynb, Communicate_Data_Findings-Prosper_Loan_Part1.html
+>   - Communicate_Data_Findings-Prosper_Loan_Part2.ipynb, Communicate_Data_Findings-Prosper_Loan_Part2.html
+>   - Communicate_Data_Findings-Prosper_Loan_Part2.slides.html
+>   - readme.md
+>   - prosperLoanData_src.csv (for data wrangling use), prosperLoanData.csv (for exploration and explanatory use)
 >
 >
 > ### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/blob/master/Project%205-Data%20Visualization/Project5%20Review.pdf)
