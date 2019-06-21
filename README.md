@@ -2,7 +2,7 @@
 This repo contains a collection of project deliverables from my DAND course work.
  ---
 
-![png](dandCert.png)
+![png](DANDcert.png)
 
 ## Project Deliverables Summary
 ### 1. [Explore Weather Trends](https://github.com/atan4583/dand-project-portfolio/tree/master/Project%201-Explore%20Weather%20Trends)
