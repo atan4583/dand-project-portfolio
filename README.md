@@ -120,6 +120,6 @@ This repo contains a collection of project deliverables from my DAND course work
 > ### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/blob/master/Project%205-Data%20Visualization/Project5%20Review.pdf)
 >
 >
-> To see the _**slide show**_, download it from [here](https://drive.google.com/file/d/1HAbhPb7Lt-Vz05rvCqycRuFS9agLe_Y8/view?usp=sharing) and open it in a browser. To suspend slide show auto-play, click the _**Auto Play**_ button at the bottom left end of the page. To manually advance the slide, click the _**Manual Play**_ button at the bottom right end of the page, as shown below.
+>  Click [here](https://xni3urz9ch3xg7nnt8tnpa-on.drv.tw/AutoComm_Data_Findings-Prosper_Loan_Part2.slides.html) to see the _**slide show**_. Click the _**Auto Play**_ button at the bottom left end of the page to suspend/resume slide show. Click the _**Manual Play**_ button at the bottom right end of the page to manually advance slide page, as shown below.
 > ![png2](slideShow.png)
 >
