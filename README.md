@@ -12,13 +12,13 @@ This repo contains a collection of project deliverables from my DAND course work
 > * Produced a visualization and prepared a report describing the similarities and differences between global temperature trends and temperature trends of my home city.
 >
 >
-> * Tool used: Excel, Jupyter Notebook (Python)
+> * Tool: Excel, Jupyter Notebook (Python)
 >
 >
-> * Programming libraries used: pandas, matplotlib
+> * Programming library: pandas, matplotlib
 >
 >
-> * Artifacts: Project 1-Explore Weather Trends.xlsx, Project 1-Explore Weather Trends (Global vs Multi-City).ipynb
+> * Artifact: Project 1-Explore Weather Trends.xlsx, Project 1-Explore Weather Trends (Global vs Multi-City).ipynb
 >
 >
 > ### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/blob/master/Project%201-Explore%20Weather%20Trends/Project1%20Review.pdf)
@@ -30,10 +30,10 @@ This repo contains a collection of project deliverables from my DAND course work
 > * Documented the analysis process along with visualizations to explain the findings and support the conclusions drawn.
 >
 >
-> * Tool used: Jupyter Notebook (Python)
+> * Tool: Jupyter Notebook (Python)
 >
 >
-> * Programming libraries used: pandas, numpy, matplotlib, seaborn
+> * Programming library: pandas, numpy, matplotlib, seaborn
 >
 >
 > * Artifact: Project 2-Investigate a Dataset.ipynb
@@ -48,10 +48,10 @@ This repo contains a collection of project deliverables from my DAND course work
 > * Analysis was conducted using 3 approaches - probabilistic reasoning, hypothesis testing and logistic regression to cross examine the results produced and draw conclusions.
 >
 >
-> * Tool used: Jupter Notebook (Python)
+> * Tool: Jupter Notebook (Python)
 >
 >
-> * Programming libraries used: panda, numpy, matplotlib, statsmodels
+> * Programming library: panda, numpy, matplotlib, statsmodels
 >
 >
 > * Artifact: Analyze_ab_test_results_notebook.ipynb
@@ -81,10 +81,10 @@ This repo contains a collection of project deliverables from my DAND course work
 > * Produce a 300-600 word written report with brief description of the wrangling efforts, frame it as an internal document. Create another 250-word-minimum written report to communicate the insights and displays the visualization(s) produced from the wrangled data. Frame it as an external document, like a blog post or magazine article
 >
 >
-> * Tool used: Jupter Notebook (Python)
+> * Tool: Jupter Notebook (Python)
 >
 >
-> * Programming libraries used: panda, numpy, matplotlib, seaborn, tweepy, json, requests
+> * Programming library: panda, numpy, matplotlib, seaborn, tweepy, json, requests
 >
 >
 > * Artifact:
@@ -103,10 +103,10 @@ This repo contains a collection of project deliverables from my DAND course work
 > * Produce a short presentation to convey findings by transforming the exploratory visualizations from the exploration part into polished, explanatory visualizations.
 >
 >
-> * Tool used: Jupter Notebook (Python)
+> * Tool: Jupter Notebook (Python)
 >
 >
-> * Programming libraries used: panda, numpy, matplotlib, seaborn
+> * Programming library: panda, numpy, matplotlib, seaborn
 >
 >
 > * Artifact:
